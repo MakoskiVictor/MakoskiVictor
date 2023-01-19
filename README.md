@@ -26,13 +26,21 @@
 </div>
 </br>
 
-<h2 align="center"> Revisa mi último proyecto 👇 </h2>
-<h3 align="center">📲 https://front-wheat-gamma.vercel.app/ </h3>
-</br>
+<h2 align="center"> Revisa mis últimos proyectos 👇 </h2>
+<h5 align="center">📲 https://front-wheat-gamma.vercel.app/ </h5>
 
-<h2 align="center">Un E-commerce dedicado a tecnología construido como proyecto grupal final del bootcamp Soy Henry <a href='https://www.soyhenry.com/' target="_blank" rel="noreferrer" text='go to soyHenry'><img width="25" height="25" src='https://user-images.githubusercontent.com/86882630/174009890-4daeb2e8-054f-49b5-909f-67789a6b6e03.jpeg'/></a></h2>
-</br>
 
+<h3 align="center">Un E-commerce dedicado a tecnología construido como proyecto grupal final del bootcamp Soy Henry <a href='https://www.soyhenry.com/' target="_blank" rel="noreferrer" text='go to soyHenry'><img width="25" height="25" src='https://user-images.githubusercontent.com/86882630/174009890-4daeb2e8-054f-49b5-909f-67789a6b6e03.jpeg'/></a></h3>
 
  
 <p align="center"><img width="800" alt="img not found" src="https://res.cloudinary.com/dzr5xulsx/image/upload/v1666809077/techno_nfmbj2.jpg"></p>
+</br>
+<h2 align="center">  👇 </h2>
+<h5 align="center">📲 https://ta-te-ti-sigma.vercel.app/ </h5>
+
+
+<h3 align="center">Ta Te Ti: ¡un simple pero divertido juego para pasar el rato con tus amigos!</h3>
+</br>
+
+<p align="center"><img width="300" alt="img not found" src="https://user-images.githubusercontent.com/94583526/213360077-29e3920f-0c02-4877-816d-df393111195a.jpg"></p>
+
