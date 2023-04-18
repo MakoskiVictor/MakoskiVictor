@@ -26,6 +26,14 @@
 </div>
 </br>
 
+<div align="center" > 
+ <h3 align="center">¡Echa un vistazo a mi portfolio!</h3>
+ <h2 align="center">  👇 </h2>
+<h5 align="center">📲 https://portfolio-makoski-dev.vercel.app/ </h5>
+ 
+<img width="800" height="auto" src ='https://res.cloudinary.com/dl9pbe0eu/image/upload/v1681808705/portfolio_irodzb.png'>
+</div>
+
 <h2 align="center"> Revisa mis últimos proyectos 👇 </h2>
 <h5 align="center">📲 https://front-wheat-gamma.vercel.app/ </h5>
 
@@ -42,5 +50,18 @@
 <h3 align="center">Ta Te Ti: ¡un simple pero divertido juego para pasar el rato con tus amigos!</h3>
 </br>
 
+
 <p align="center"><img width="300" alt="img not found" src="https://user-images.githubusercontent.com/94583526/213360077-29e3920f-0c02-4877-816d-df393111195a.jpg"></p>
+</br>
+
+<div align="center" > 
+ <h2 align="center">  👇 </h2>
+<h5 align="center">📲 https://google-translate-clonned.vercel.app </h5>
+ <h3 align="center">¡Un clon del traductor de Google con tres idiomas disponibles y botón de lectura!</h3>
+<img width="700" height="auto" src ='https://res.cloudinary.com/dl9pbe0eu/image/upload/v1681807833/cloneImg_e6x4la.png'>
+</div>
+
+
+
+
 
