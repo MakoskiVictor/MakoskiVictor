@@ -15,8 +15,8 @@
 <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> 
 <p></p>
 <img width ='50px' src ='https://www.svgrepo.com/show/353985/laravel.svg'> 
-<img width ='50px' src ='https://www.svgrepo.com/show/376337/node-js.svg'> 
 <img width ='50px' src ='https://www.svgrepo.com/show/354107/nestjs.svg'> 
+<img width ='50px' src ='https://www.svgrepo.com/show/452075/node-js.svg'> 
 <p></p>
 <img width ='50px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> 
  <img width ='50px' src ='https://www.svgrepo.com/show/354381/sqlite.svg'> 
