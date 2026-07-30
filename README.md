@@ -2,7 +2,7 @@
 <h1 align="center">Hey 👋 I'm Víctor!</h1>
 
 
-<h2 align="center">I'm a Developer specializing in Desktop and Web programs </h2>
+<h2 align="center">I'm a Desktop and Web Developer</h2>
 
 <div align="center">
 <img width="700px" height = "300px" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="cover" />
